@@ -2,6 +2,9 @@
 
 ## Train
 
+download data: [here](https://github.com/CunchuanHuang/AIC-GER/releases/download/v1.0/data.zip)
+
+
 ```
 python train.py -c config/chocolate.yaml
 python train.py -c config/cupcake.yaml
